@@ -11,6 +11,19 @@ bu da yapılan ikinci bir değişiklik
     4  git config --global user.name
     5  git config --global user.email
 
+ 50  git init
+   51  ls -al
+   52  git add .
+   53  git commit -m "ilk commit"
+	git log
+	git status
+history |head -10
+history |tail -10
+git restore filename ( before stage)
+git restore --stage filename (after stage)
+git checkout hashcode_of_version -- . (after commit)
+
+
 ***************************
  verison 1
 ***************************
