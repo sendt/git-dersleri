@@ -39,3 +39,8 @@ directory/* (means hide all files)
 !file_name (means show this file)
 ***************************************
 git pull (to get update maybe after merge brancies )
+*************************************
+git branch (-all means list allt branch which is even in remote)
+git branch --name(name branch will creat on local)
+git checkout name(to switch name branch)
+
