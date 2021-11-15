@@ -12,5 +12,5 @@ bu da yapılan ikinci bir değişiklik
     5  git config --global user.email
 
 ***************************
- verison 3
+ verison 1
 ***************************
