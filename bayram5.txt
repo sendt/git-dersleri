@@ -46,4 +46,7 @@ git checkout name(to switch name branch)
 and if you wanna merge the branch first swictch to master branch
 then 
 git merge name(branch)
-
+in github watch button means follow a project and get notification when it's changed
+starts means you wanna look at after time and you liked 
+fork means get one copy of the project
+issues means you need to figure out something aabout the code and if you need your tem help the you create a isseus 
