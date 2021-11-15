@@ -31,3 +31,6 @@ git ten githuba projeleri göndermek
 git remote add nicknameof_repo repoadresss
 git remote (check remote connection with this)
 git push -u nicknameof_repo master (make sure rigth direction -u: send all files)
+
+**************************************
+.gitignore is file which you don't want to share !!
