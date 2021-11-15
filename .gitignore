@@ -1,2 +1,2 @@
-database
-!database/database1.txt
+database/*
+database/data1.txt
