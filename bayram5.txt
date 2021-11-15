@@ -34,3 +34,7 @@ git push -u nicknameof_repo master (make sure rigth direction -u: send all files
 
 **************************************
 .gitignore is file which you don't want to share !!
+in .gitignore
+directory/* (means hide all files)
+!file_name (means show this file)
+***************************************
