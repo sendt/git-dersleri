@@ -38,3 +38,4 @@ in .gitignore
 directory/* (means hide all files)
 !file_name (means show this file)
 ***************************************
+git pull (to get update maybe after merge brancies)
