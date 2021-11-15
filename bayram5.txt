@@ -2,3 +2,14 @@ bayram aydın
 
 
 bu da yapılan ikinci bir değişiklik
+
+
+**************************
+ 1  git --version
+    2  git config --global user.name "username"
+    3  git config --global user.email "..@gmail.com"
+    4  git config --global user.name
+    5  git config --global user.email
+
+***************************
+ bu değişiklik silinecek 
