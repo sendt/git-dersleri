@@ -44,4 +44,6 @@ git branch (-all means list allt branch which is even in remote)
 git branch --name(name branch will creat on local)
 git checkout name(to switch name branch)
 and if you wanna merge the branch first swictch to master branch
+then 
+git merge name(branch)
 
